@@ -2,7 +2,10 @@
 
 Pleasure to have you here!
 
-I'm a software engineer studying development of web systems and applications, looking to find creative and unusual solutions to coding conundrums!
+I'm a software engineer studying development of web systems and applications
+
+Looking to find creative and unusual solutions to any coding conundrums!
+
 Ask me anything, let's chat and share our knowledge!
 
 <!--
