@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### Tecnologias de Atuação
+### Technology i've worked with
 
 <div>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
