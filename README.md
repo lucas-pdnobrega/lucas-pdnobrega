@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Currently working as a Back-End Developer at Assert Laboratory - IFPB
-- ⚡ Fun fact: I've yet to turn 20!
-
+- 🔭 Worked as a Back-End Developer at Assert Laboratory - IFPB
 
 
 ### Contact
