@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Worked as a Back-End Developer at Assert Laboratory - IFPB
 
 
 ### Contact
